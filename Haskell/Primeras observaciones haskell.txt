@@ -1,0 +1,23 @@
+-- primer nombre con minusculas siempre y guardarlo con .hs
+archivo.hs 
+
+name:: type
+name = expresion 
+
+Ejemplo:
+
+-- tipo de dato con mayusculas al principio 
+size :: Int 
+size = 12+13 
+
+-- siempre empezar a escirbir en la primer columna, no dejar ningun especio en blanco ademas
+-- no usar tabuladores
+
+-- :l + nameproject - compilar mi proyecto 
+-- :r + nameproject - recargar mi proyecto 
+
+haskell.org
+ghci
+prelude
+main>
+
