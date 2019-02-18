@@ -1,0 +1,1 @@
+conc([], B, A) meses antes y despues de mayo y el mes anterior y despues de mayo 
